@@ -10,7 +10,7 @@ I am currently in the Bachelor of Computer Science (BCS) program at the Universi
 
 ### ⚡ In my free time:
 
-- I love hiking in the (two months of) summer 
+- I love hiking during the (two months of) Vancouver summer 
 - You will likely find me at the gym
 - I also love learning, and it doesn't stop with code - I am always baking and cooking something new! 
 
