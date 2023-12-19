@@ -5,7 +5,6 @@ I am currently in the Bachelor of Computer Science (BCS) program at the Universi
 
 ### 🌱 I’m currently learning: 
 
-- web development (including HTML, CSS and Javascript)
 - the MERN stack (MongoDB, Express, React, Node.js)
 
 ### ⚡ In my free time:
