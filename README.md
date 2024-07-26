@@ -2,11 +2,6 @@
 
 I am currently in the Bachelor of Computer Science (BCS) program at the University of British Columbia. Before this, I studied Biology and worked in clinical research, industrial labs, as well as a couple other side jobs (including 3 years as a part-time barista)! 
 
-
-### 🌱 I’m currently working on: 
-
-- creating a personal website
-
 ### ⚡ In my free time:
 
 - I love hiking during the (two months of) Vancouver summer 
